@@ -1,0 +1,29 @@
+{
+  "name": "supperBuddy",
+  "version": "0.0.1",
+  "description": "It helps you to be make things done",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tojocky/supperBuddy"
+  },
+  "keywords": [
+    "agile",
+    "scrum"
+  ],
+  "author": "ion@lupascu.net",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/tojocky/supperBuddy/issues"
+  },
+  "homepage": "https://github.com/tojocky/supperBuddy#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  },
+  "dependencies": {
+    "mongodb": "^2.1.21"
+  }
+}
