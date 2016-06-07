@@ -1,4 +1,4 @@
 # supperBuddy
 
 
-#### License [BSD)](LICENSE.md)
+#### License [BSD](LICENSE.md)
